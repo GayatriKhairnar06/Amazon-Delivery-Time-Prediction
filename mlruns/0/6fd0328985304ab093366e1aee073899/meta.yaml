@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Project/Amazon/mlruns/0/6fd0328985304ab093366e1aee073899/artifacts
+end_time: 1759051095776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6fd0328985304ab093366e1aee073899
+run_name: Gradient Boosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759051049017
+status: 3
+tags: []
+user_id: admin

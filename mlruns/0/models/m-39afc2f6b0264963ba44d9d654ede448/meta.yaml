@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Project/Amazon/mlruns/0/models/m-39afc2f6b0264963ba44d9d654ede448/artifacts
+creation_timestamp: 1759051035707
+experiment_id: '0'
+last_updated_timestamp: 1759051048922
+model_id: m-39afc2f6b0264963ba44d9d654ede448
+model_type: null
+name: Random Forest
+source_run_id: e56fdd64705043e1a2c34c3c7971855f
+status: 2
+status_message: null

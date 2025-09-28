@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Project/Amazon/mlruns/0/2625c6a4873e4d51954f8539a8d4cf6d/artifacts
+end_time: 1759048733787
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2625c6a4873e4d51954f8539a8d4cf6d
+run_name: Linear Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759048711290
+status: 3
+tags: []
+user_id: admin

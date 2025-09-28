@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Project/Amazon/mlruns/0/models/m-b5a0b30bb08c430ebdd98cdc253e99ee/artifacts
+creation_timestamp: 1759051086345
+experiment_id: '0'
+last_updated_timestamp: 1759051095753
+model_id: m-b5a0b30bb08c430ebdd98cdc253e99ee
+model_type: null
+name: Gradient Boosting
+source_run_id: 6fd0328985304ab093366e1aee073899
+status: 2
+status_message: null

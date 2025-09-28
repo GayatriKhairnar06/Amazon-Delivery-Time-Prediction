@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Project/Amazon/mlruns/0/e56fdd64705043e1a2c34c3c7971855f/artifacts
+end_time: 1759051048977
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e56fdd64705043e1a2c34c3c7971855f
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759048733821
+status: 3
+tags: []
+user_id: admin

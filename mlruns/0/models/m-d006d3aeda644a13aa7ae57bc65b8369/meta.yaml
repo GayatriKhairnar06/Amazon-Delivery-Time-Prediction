@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Project/Amazon/mlruns/0/models/m-d006d3aeda644a13aa7ae57bc65b8369/artifacts
+creation_timestamp: 1759048714604
+experiment_id: '0'
+last_updated_timestamp: 1759048733761
+model_id: m-d006d3aeda644a13aa7ae57bc65b8369
+model_type: null
+name: Linear Regression
+source_run_id: 2625c6a4873e4d51954f8539a8d4cf6d
+status: 2
+status_message: null
